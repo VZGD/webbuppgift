@@ -1,0 +1,20 @@
+body {
+    background-color: lightgreen;
+}
+
+.rectangle {
+    background-color: lightblue;
+    background-size: cover;
+    color: tomato ;
+
+}
+
+.rectangle2 {
+    background-color: purple;
+    color: lightgreen;
+}
+
+
+p {
+    color: purple;
+}
